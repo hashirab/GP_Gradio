@@ -1,1 +1,2 @@
 *.pt filter=lfs diff=lfs merge=lfs -text
+Anomaly/resnet50_final.pth filter=lfs diff=lfs merge=lfs -text
